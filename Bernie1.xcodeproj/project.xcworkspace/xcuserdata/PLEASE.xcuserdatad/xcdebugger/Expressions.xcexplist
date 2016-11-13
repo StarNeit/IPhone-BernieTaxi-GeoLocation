@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController locationManager:didUpdateToLocation:fromLocation:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.flagOfLogin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PickContract viewDidLoad]:PickContract.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pContractCnt">
+            </PersistentString>
+            <PersistentString
+               value = "pContractNameList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PassengerSetting connectionDidFinishLoading:]:PassengerSetting.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lc_password">
+            </PersistentString>
+            <PersistentString
+               value = "self.flagOfService">
+            </PersistentString>
+            <PersistentString
+               value = "lc_email">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RegisterDonatingInfo do_donate:]:RegisterDonatingInfo.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "str">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PassengerLogin connectionDidFinishLoading:]:PassengerLogin.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[trip_information valueForKey:@&quot;trip_id&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PassengerContractSubmit connectionDidFinishLoading:]:PassengerContractSubmit.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "trip_id">
+            </PersistentString>
+            <PersistentString
+               value = "trip_information">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PickContract connectionDidFinishLoading:]:PickContract.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pContractNode">
+            </PersistentString>
+            <PersistentString
+               value = "pContractNode[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController connectionDidFinishLoading:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.flagOfLogin">
+            </PersistentString>
+            <PersistentString
+               value = "jsonObject">
+            </PersistentString>
+            <PersistentString
+               value = "_responseData">
+            </PersistentString>
+            <PersistentString
+               value = "lc_password">
+            </PersistentString>
+            <PersistentString
+               value = "_responseData-&gt;_length">
+            </PersistentString>
+            <PersistentString
+               value = "g_curLatitude">
+            </PersistentString>
+            <PersistentString
+               value = "lc_email">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "getContactList:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "str">
+            </PersistentString>
+            <PersistentString
+               value = "array[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CreatePassengerContract do_confirm_completion:]:CreatePassengerContract.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lc_email">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PickupContract showUserLoc:]:PickupContract.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PickContract tableView:didSelectRowAtIndexPath:]:PickContract.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pContractNode[0].trip_address)">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath">
+            </PersistentString>
+            <PersistentString
+               value = "pContractNode[indexPath.row].trip_address">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CreatePassengerContract connectionDidFinishLoading:]:CreatePassengerContract.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "driver_id">
+            </PersistentString>
+            <PersistentString
+               value = "temp_driver_id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PickContract acceptButton:]:PickContract.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PassengerContractSubmit textFieldClicked:]:PassengerContractSubmit.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_datePicker.date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RegisterPassengerAccount connectionDidFinishLoading:]:RegisterPassengerAccount.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.password.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PassengerContractSubmit ZoomInMap:]:PassengerContractSubmit.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mapView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PassengerLogin viewDidLoad]:PassengerLogin.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pContractCnt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CreatePassengerContract viewDidLoad]:CreatePassengerContract.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lc_email">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CreatePassengerContract myTimerCallback:]:CreatePassengerContract.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "user_lat">
+            </PersistentString>
+            <PersistentString
+               value = "trip_lon">
+            </PersistentString>
+            <PersistentString
+               value = "driver_name">
+            </PersistentString>
+            <PersistentString
+               value = "trip_lat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PassengerContractSubmit mapView:viewForAnnotation:]:PassengerContractSubmit.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "theMapView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PassengerContractSubmit do_createcontract:]:PassengerContractSubmit.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "fileURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PosixThreadMainRoutine:CreatePassengerContract.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "bDriverStatusThread">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CreatePassengerContract showUserLoc:]:CreatePassengerContract.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "g_curLatitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
